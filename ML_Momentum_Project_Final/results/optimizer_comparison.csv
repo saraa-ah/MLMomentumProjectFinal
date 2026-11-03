@@ -1,0 +1,6 @@
+Optimizer,Learning Rate,Validation MSE,Test MSE,Test RMSE,Test MAE,Test R2
+Batch GD with Momentum,0.0500,21.6877,19.1591,4.3771,3.4965,0.6123
+SGD with Momentum,0.0010,21.6178,18.1342,4.2584,3.3773,0.6331
+Mini-batch GD with Momentum,0.0050,21.7147,19.2420,4.3866,3.5156,0.6107
+RMSprop with Momentum,0.0050,21.4690,18.9324,4.3511,3.5146,0.6169
+Adam,0.1000,21.5061,18.9974,4.3586,3.5124,0.6156

@@ -1,0 +1,57 @@
+{
+  "original_rows": 398,
+  "valid_rows": 392,
+  "excluded_missing_horsepower": 6,
+  "removed_duplicate_pairs": 0,
+  "train": 274,
+  "validation": 59,
+  "test": 59,
+  "notebooks": [
+    {
+      "file": "01_batch_gd.ipynb",
+      "status": "PASS",
+      "rows_used": 392,
+      "train": 274,
+      "validation": 59,
+      "test": 59,
+      "code_cells_executed": 9
+    },
+    {
+      "file": "02_sgd.ipynb",
+      "status": "PASS",
+      "rows_used": 392,
+      "train": 274,
+      "validation": 59,
+      "test": 59,
+      "code_cells_executed": 9
+    },
+    {
+      "file": "03_mini_batch_gd.ipynb",
+      "status": "PASS",
+      "rows_used": 392,
+      "train": 274,
+      "validation": 59,
+      "test": 59,
+      "code_cells_executed": 9
+    },
+    {
+      "file": "04_rmsprop.ipynb",
+      "status": "PASS",
+      "rows_used": 392,
+      "train": 274,
+      "validation": 59,
+      "test": 59,
+      "code_cells_executed": 9
+    },
+    {
+      "file": "05_adam.ipynb",
+      "status": "PASS",
+      "rows_used": 392,
+      "train": 274,
+      "validation": 59,
+      "test": 59,
+      "code_cells_executed": 9
+    }
+  ],
+  "verification_method": "Fresh kernel notebook execution and comparison of saved output HTML tables to CSV"
+}
